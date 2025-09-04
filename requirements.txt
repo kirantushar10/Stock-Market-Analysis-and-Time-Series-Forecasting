@@ -1,0 +1,8 @@
+streamlit
+yfinance
+plotly
+ta-lib
+statsmodels
+scikit-learn
+pandas
+numpy
