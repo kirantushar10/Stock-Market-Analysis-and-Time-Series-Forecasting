@@ -27,5 +27,5 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/stock-market-analysis.git
+   git clone (https://github.com/kirantushar10/Stock-Market-Analysis-and-Time-Series-Forecasting)
    cd stock-market-analysis
